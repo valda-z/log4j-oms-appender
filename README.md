@@ -1,5 +1,5 @@
-# Experimental appender for log4j
-This **experimental** appender collects data from log4j and in async way sending data to OMS REST API for processing.
+# Experimental log4j appender for OMS
+This **experimental** appender collects data from log4j and in async way sends data to OMS REST API for processing.
 
 ## How to compile and test
 * go to directory `log4j-oms-appender`
