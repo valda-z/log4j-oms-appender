@@ -6,7 +6,7 @@ This **experimental** appender collects data from log4j and in async way sending
 * compile by `mvn clean install`
 * than go to directory `testapp`
 * update file `./src/main/resources/log4j.properties` 
-** enter valid `log4j.appender.oms.customerId` and `log4j.appender.oms.sharedKey` - vaules depends on your deployed OMS instance
+  * enter valid `log4j.appender.oms.customerId` and `log4j.appender.oms.sharedKey` - vaules depends on your deployed OMS instance
 * compile by `mvn clean package`
 * and run our testapp ...
 
